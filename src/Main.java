@@ -5,7 +5,7 @@ public class Main {
         Cinema cinema1 = new Cinema("Multikino", "ul. Krakowska 5");
 
         Movie m1 = new Movie("Hobbit", 120);
-        Movie m2 = new Movie("Avatar 3", 160);
+        Movie m2 = new Movie("Avatar 3", 180);
         cinema1.addMovie(m1);
         cinema1.addMovie(m2);
 
